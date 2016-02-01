@@ -40,6 +40,7 @@ namespace DeckOfCards
             Console.WriteLine("Shuffling deck...");
 
             //Shuffle algorithm from http://stackoverflow.com/questions/273313/randomize-a-listt-in-c-sharp
+            //Fisher-Yates shuffle
             int n = deck.Count;
             while (n > 1)
             {
