@@ -1,6 +1,0 @@
-D:\derpface\VSprojects\D6T3\DeckOfCards\bin\Debug\DeckOfCards.exe.config
-D:\derpface\VSprojects\D6T3\DeckOfCards\bin\Debug\DeckOfCards.exe
-D:\derpface\VSprojects\D6T3\DeckOfCards\bin\Debug\DeckOfCards.pdb
-D:\derpface\VSprojects\D6T3\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
-D:\derpface\VSprojects\D6T3\DeckOfCards\obj\Debug\DeckOfCards.exe
-D:\derpface\VSprojects\D6T3\DeckOfCards\obj\Debug\DeckOfCards.pdb
